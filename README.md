@@ -439,7 +439,8 @@ setup_windows_scheduler.bat
 
 # Author
 
-George Baji
-
+George Ochieng Onyango
+georgebabji1220@GMAIL.com
+linkedln:https://www.linkedin.com/in/george-onyango-5a5906360/
 GitHub:
 https://github.com/George-tech-svg
