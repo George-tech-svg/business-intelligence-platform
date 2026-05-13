@@ -1,0 +1,23 @@
+﻿# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Data files
+data/raw/*.csv
+data/processed/*.csv
+data/warehouse/*.sql
+output/exports/*.csv
+output/reports/*.txt
+output/dashboards/*.html
+
+# Logs
+logs/*.log
+*.log
+
+# ML Models
+04_data_science/models/*.pkl
+
+# Config
+config.py
